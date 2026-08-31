@@ -86,5 +86,4 @@ with a seeded `DataLoader` generator for reproducible batch order.
 ```
 
 
----
-**Full Report:** https://docs.google.com/document/d/18kthUH7qKItxUkuFYzQ6jJxQ1ysLWhuv/edit?usp=sharing&ouid=117639944094007826260&rtpof=true&sd=true
+---📄 **Full Report:** [FPL-AD_IEEE_Style_Report](https://docs.google.com/document/d/18kthUH7qKItxUkuFYzQ6jJxQ1ysLWhuv/edit?usp=sharing&ouid=117639944094007826260&rtpof=true&sd=true)
